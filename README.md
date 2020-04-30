@@ -1,2 +1,2 @@
-# UAENA
-The real-time monitoring system for UAENA
+# IUAENA
+The real-time monitoring system for IUAENA
